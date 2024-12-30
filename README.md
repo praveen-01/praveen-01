@@ -2,9 +2,6 @@
 <h3 align="center">A Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-01&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-01" alt="praveen-01" /></a> </p>
-
 - 🌱 I’m currently learning **Go and frontend**
 
 - 💬 Ask me about **AWS, Python and Kubernetes**
