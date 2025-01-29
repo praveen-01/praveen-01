@@ -2,7 +2,7 @@
 <h3 align="center">A Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-01&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-01" /> </p>
-- 🌱 I’m currently learning **Go and frontend**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **AWS, Python and Kubernetes**
 
